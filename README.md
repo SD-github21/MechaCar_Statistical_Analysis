@@ -73,7 +73,6 @@ Therefore, we can investigate how well our MechaCar prototype compares to severa
 
 We can utilize a two sample t-test for this analysis. A two sample t-test would allow us to test whether the means of two samples are statistically different. We have already completed the preliminary research to identify some top car brands highlighted as earning the IIHS Top Safety Pick+ award for 2021. Our next step would be to obtain the mean safety rating for the MechaCar prototypes as well as to obtain the mean safety rating values for the top competitors who won the Top Safety Pick+ award for 2021. We can choose between 3-5 brands and obtain the mean safety rating of these competitors. Presuming that our assumptions are met, we would use the t.test() function to compare the mean safety ratings between our MechaCar prototype and the top competitors. 
 
-Once we examine whether the mean safety rating for our MechaCar prototype differs from the mean safety rating of a sample of top car brand safety ratings, we can also conduct a follow-up study and conduct a one-way ANOVA to see whether the mean safety rating for MechaCar differs from the individual competitors. We would first test to see if the means of all the brands are equal or if at least one of them differs. We could then conduct follow up statistical analyses, i.e., a post-hoc test such as the Scheffe Test, to obtain more in-depth information about which car brands differ from each other and in what manner,
 
 
 
