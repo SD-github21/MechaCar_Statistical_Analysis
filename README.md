@@ -71,7 +71,7 @@ Therefore, we can investigate how well our MechaCar prototype compares to severa
   
   HA: There is a statistical difference between the mean safety rating for MechaCar and the mean safety rating for its competitors
 
-We can utilize a two sample t-test for this analysis. A two sample t-test would allow us to test whether the means of two samples are statistically different. We have already completed the preliminary research to identify some top car brands highlighted as earning the IIHS Top Safety Pick+ award for 2021. Our next step would be to obtain the mean safety rating for the MechaCar prototypes as well as to obtain the mean safety rating values for the top competitors who won the Top Safety Pick+ award for 2021. We can choose between 3-5 brands and obtain the mean safety rating of these competitors. Presuming that our assumptions are met, we would use the t.test() function to compare the mean safety ratings between our MechaCar prototype and the top competitors. 
+We can utilize a two sample t-test for this analysis. A two sample t-test would allow us to test whether the means of two samples are statistically different. We have already completed the preliminary research to identify some top car brands highlighted as earning the IIHS Top Safety Pick+ award for 2021. Our next step would be to obtain data on the mean safety rating for the MechaCar prototypes as well as to obtain the mean safety rating values for the top competitors who won the Top Safety Pick+ award for 2021. We can choose between 3-5 brands and obtain the mean safety rating of these competitors. Presuming that our assumptions are met, we would use the t.test() function to compare the mean safety ratings between our MechaCar prototype and the top competitors. 
 
 
 
