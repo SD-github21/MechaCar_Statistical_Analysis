@@ -38,19 +38,19 @@ In reviewing the summary statistics for all manufacturing lots, the mean is 1498
 ## T-Tests on Suspension Coils – Deliverable #3
 A third analysis was conducted by extending the results of Deliverable #2 to investigate if the mean PSI values obtained for the total manufacturing lots as well as each lot individually were statistically different from the population mean of 1,500 pounds per square inch. The below screen shots detail this series of analyses:
 
-## (1) One sample t test to compare the mean PSI value obtained for the total manufacturing lots against the population mean
+## (1) One sample t-test to compare the mean PSI value obtained for the total manufacturing lots against the population mean
 
 ![image](https://user-images.githubusercontent.com/85533099/143725057-ddab78db-97a3-4a52-b41c-91ecd8e17270.png)
 
-## (2) One sample t test to compare the mean PSI value obtained for Lot 1 against the population mean
+## (2) One sample t-test to compare the mean PSI value obtained for Lot 1 against the population mean
 
 ![image](https://user-images.githubusercontent.com/85533099/143725062-de2f9770-93a7-4632-a868-e0c0dcc81d3d.png)
 
-## (3) One sample t test to compare the mean PSI value obtained for Lot 2 against the population mean
+## (3) One sample t-test to compare the mean PSI value obtained for Lot 2 against the population mean
 
 ![image](https://user-images.githubusercontent.com/85533099/143725070-e5390bd2-c2fc-440a-ac20-efe091eb970b.png)
 
-## (4) One sample t test to compare the mean PSI value obtained for Lot 3 against the population mean
+## (4) One sample t-test to compare the mean PSI value obtained for Lot 3 against the population mean
 
 ![image](https://user-images.githubusercontent.com/85533099/143725082-50953625-b1df-4f30-8574-01644c461b09.png)
 
