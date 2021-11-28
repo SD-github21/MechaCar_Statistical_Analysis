@@ -8,7 +8,7 @@ The purpose of the MechaCar statistical analysis was to gain insights about prod
 # Summary of Results
 
 ## Linear Regression to Predict MPG – Deliverable #1
-A multiple linear regression analysis was conducted to predict the mpg of MechaCar prototypes using five variables from the MechaCar_mpg.csv dataset. The below screen shots detail the full process to complete this analysis:
+A multiple linear regression analysis was conducted to predict the mpg of MechaCar prototypes using five independent variables from the MechaCar_mpg.csv dataset. The below screen shots detail the full process to complete this analysis:
 
 ![image](https://user-images.githubusercontent.com/85533099/143725000-7056dd08-859a-45f7-8458-2cf2161391ab.png)
 
