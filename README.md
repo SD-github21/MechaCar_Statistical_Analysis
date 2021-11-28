@@ -55,7 +55,7 @@ A third analysis was conducted by extending the results of Deliverable #2 to inv
 ![image](https://user-images.githubusercontent.com/85533099/143725082-50953625-b1df-4f30-8574-01644c461b09.png)
 
 ### Results for Deliverable #3:
-Our series of analyses indicated that the mean PSI values for all manufacturing lots (t = -1.89, p = 0.06) as well as the mean PSI value for Lot 1 (t = 0, p = 1) and Lot 2 (t = 0.52, p = 0.61) were not statistically significant from the mean PSI value of the population, i.e., 1,500. However, the one sample t-test conducted on Lot 3 (t = -2.09, p = 0.04) provided sufficient evidence to reject the null hypothesis and conclude that the mean PSI value for Lot 3 is statistically different from the mean PSI value of the population. 
+Our series of analyses indicated that the t-test results obtained to examine the mean PSI values for all manufacturing lots (t = -1.89, p = 0.06) as well as the mean PSI value for Lot 1 (t = 0, p = 1) and Lot 2 (t = 0.52, p = 0.61) were not statistically significant from the mean PSI value of the population, i.e., 1,500. However, the one sample t-test conducted on Lot 3 (t = -2.09, p = 0.04) provided sufficient evidence to reject the null hypothesis and conclude that the mean PSI value for Lot 3 is statistically different from the mean PSI value of the population. 
 
 --------------------------------------------------------------------------------------------------------------------------------------
 
