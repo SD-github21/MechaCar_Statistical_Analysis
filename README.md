@@ -61,13 +61,9 @@ Our series of analyses indicated that the mean PSI values for all manufacturing 
 
 ## Study Design: MechaCar vs Competition – Deliverable #4
 
-Recent research has suggested that, while the overall number of road traffic collisions has decreased around the world due to the COVID-19 pandemic, there was also a documented relative increase of severe injuries and deaths:  
+Recent research has suggested that, while the overall number of road traffic collisions has decreased around the world due to the COVID-19 pandemic, there was also a documented relative increase of severe injuries and deaths ([Link to research study](https://wjes.biomedcentral.com/articles/10.1186/s13017-021-00395-8)).
 
-[Link to research study](https://wjes.biomedcentral.com/articles/10.1186/s13017-021-00395-8)
-
-In light of this phenomenon, a timely and important statistical study that can illuminate how MechaCar outperforms its competitors would be to examine average safety ratings as a metric of valued interest. Specifically, we would examine if the mean safety rating for the MechaCar prototype differs from the mean safety rating of different competitors. Preliminary research through a Google search identifies the car brands that yield the highest safety ratings: 
-
-[Link to website](https://www.caranddriver.com/features/g20955601/safest-cars/)
+In light of this phenomenon, a timely and important statistical study that can illuminate how MechaCar outperforms its competitors would be to examine average safety ratings as a metric of valued interest. Specifically, we would examine if the mean safety rating for the MechaCar prototype differs from the mean safety rating of different competitors. Preliminary research through a Google search identifies the car brands that yield the highest safety ratings ([Link to website](https://www.caranddriver.com/features/g20955601/safest-cars/)).
 
 Therefore, we can investigate how well our MechaCar prototype compares to several car brands.  Hypotheses for this statistical test would be as follows:
 
