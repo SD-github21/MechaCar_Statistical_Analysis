@@ -65,7 +65,7 @@ Recent research has suggested that, while the overall number of road traffic col
 
 In light of this phenomenon, a timely and important statistical study that can illuminate how MechaCar outperforms its competitors would be to examine safety ratings as a metric of valued interest. Specifically, we would examine if the mean safety rating for the MechaCar prototype differs from the mean safety rating of different competitors. Preliminary research through a Google search identifies the car brands that yield the highest safety ratings ([Link to website](https://www.caranddriver.com/features/g20955601/safest-cars/)).
 
-Therefore, we can investigate how well our MechaCar prototype compares to several car brands.  Hypotheses for this statistical test would be as follows:
+Therefore, we can investigate how well our MechaCar prototype compares to its top competitors.  Hypotheses for this statistical test would be as follows:
 
   H0: There is no statistical difference between the mean safety rating for MechaCar and the mean safety rating for its competitors
   
