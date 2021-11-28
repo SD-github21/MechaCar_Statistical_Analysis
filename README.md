@@ -1,5 +1,5 @@
 # MechaCar Statistical Analysis
-The purpose of the MechaCar statistical analysis was to gain insights about the MechaCar prototype through a series of statistical tests that are presented below. 
+The purpose of the MechaCar statistical analysis was to gain insights about production data for the MechaCar prototype through a series of statistical tests that are presented below. 
 
 ### Resources
 - Data Sources: MechaCar_mpg.csv, Suspension_Coil.csv
