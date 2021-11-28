@@ -33,7 +33,7 @@ A second analysis was conducted to examine summary statistics of suspension coil
 ### Results for Deliverable #2:
 In reviewing the summary statistics for all manufacturing lots, the mean is 1498.78 (sd=7.89) and the median is 1500. The variance is 62.29, which meets the design specifications for the MechaCar suspension coils, i.e., it does not exceed 100 pounds per square inch. When we examine the results obtained by comparing each individual lot, we see that the means and medians for suspension coils from Lot 1 and 2 are both 1500 with standard deviations of 0.99 for Lot 1 and 2.73 for Lot 2. Suspension coils from Lot 3 yielded a mean of 1496.14 and median of 1498.5, with a standard deviation of 13.05. However, while the variance for Lot 1 and 2 meets our design specifications to not exceed 100 pounds per square inch, we see that Lot 3 exceeds the design specifications because the variance is 170.29 which is greater than 1000.  
 
-## --------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------------
 
 ## T-Tests on Suspension Coils – Deliverable #3
 A third analysis was conducted by extending the results of Deliverable #2 to investigate if the mean PSI values obtained for the total manufacturing lots as well as each lot individually were statistically different from the population mean of 1,500 pounds per square inch. The below screen shots detail this series of analyses:
@@ -57,7 +57,7 @@ A third analysis was conducted by extending the results of Deliverable #2 to inv
 ### Results for Deliverable #3:
 Our series of analyses indicated that the mean PSI values for all manufacturing lots (t = -1.89, p = 0.06) as well as the mean PSI value for Lot 1 (t = 0, p = 1) and Lot 2 (t = 0.52, p = 0.61) were not statistically significant from the mean PSI value of the population, i.e., 1,500. However, the one-sample t test conducted on Lot 3 (t = -2.09, p = 0.04) provided sufficient evidence to reject the null hypothesis and conclude that the mean PSI value for Lot 3 is statistically different from the mean PSI value of the population. 
 
-## --------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------------
 
 ## Study Design: MechaCar vs Competition – Deliverable #4
 
